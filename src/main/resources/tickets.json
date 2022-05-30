@@ -1,0 +1,88 @@
+[
+	{
+		"company": "El Al",
+
+		"departureCode": "VVO",
+		"departureLocation": "Vladivostok",
+
+		"arrivalCode": "TLV",
+		"arrivalLocation": "Tel-Aviv",
+
+		"departureDate": "05.05.2022",
+		"arrivalDate": "05.05.2022",
+
+		"departureTime": "14:00",
+		"arrivalTime": "19:00",
+
+		"transfersCount": 0,
+		"price": 32000
+	},{
+		"company": "Sun d'Or",
+
+		"departureCode": "VVO",
+		"departureLocation": "Vladivostok",
+
+		"arrivalCode": "TLV",
+		"arrivalLocation": "Tel-Aviv",
+
+		"departureDate": "05.05.2022",
+		"arrivalDate": "06.05.2022",
+
+		"departureTime": "20:00",
+		"arrivalTime": "07:00",
+
+		"transfersCount": 1,
+		"price": 25000
+	},{
+		"company": "Pobeda",
+
+		"departureCode": "VVO",
+		"departureLocation": "Vladivostok",
+
+		"arrivalCode": "TLV",
+		"arrivalLocation": "Tel-Aviv",
+
+		"departureDate": "05.05.2022",
+		"arrivalDate": "06.05.2022",
+
+		"departureTime": "08:00",
+		"arrivalTime": "20:00",
+
+		"transfersCount": 2,
+		"price": 20000
+	},{
+		"company": "Aeroflot",
+
+		"departureCode": "VVO",
+		"departureLocation": "Vladivostok",
+
+		"arrivalCode": "TLV",
+		"arrivalLocation": "Tel-Aviv",
+
+		"departureDate": "05.05.2022",
+		"arrivalDate": "06.05.2022",
+
+		"departureTime": "23:00",
+		"arrivalTime": "05:00",
+
+		"transfersCount": 1,
+		"price": 13370
+	},{
+		"company": "S7",
+
+		"departureCode": "VVO",
+		"departureLocation": "Vladivostok",
+
+		"arrivalCode": "TLV",
+		"arrivalLocation": "Tel-Aviv",
+
+		"departureDate": "05.05.2022",
+		"arrivalDate": "05.05.2022",
+
+		"departureTime": "12:00",
+		"arrivalTime": "14:30",
+
+		"transfersCount": 0,
+		"price": 25000
+	}
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "company": "El Al",
+
+    "departureCode": "VVO",
+    "departureLocation": "Vladivostok",
+    "departureDateTime": {"year":2022,"month":4,"dayOfMonth":30,"hourOfDay":15,"minute":30,"second":10},
+
+    "arrivalCode": "TLV",
+    "arrivalLocation": "Tel-Aviv",
+    "arrivalDateTime": {"year":2022,"month":4,"dayOfMonth":30,"hourOfDay":15,"minute":34,"second":16},
+
+    "departureTime": "14:00",
+    "arrivalTime": "19:00",
+
+    "transfersCount": 0,
+    "price": 32000
+  },{
+  "company": "Sun d'Or",
+
+  "departureCode": "VVO",
+  "departureLocation": "Vladivostok",
+  "departureDateTime": {"year":2022,"month":4,"dayOfMonth":30,"hourOfDay":15,"minute":30,"second":10},
+
+  "arrivalCode": "TLV",
+  "arrivalLocation": "Tel-Aviv",
+  "arrivalDateTime": {"year":2022,"month":4,"dayOfMonth":30,"hourOfDay":15,"minute":30,"second":10},
+
+  "departureTime": "20:00",
+  "arrivalTime": "07:00",
+
+  "transfersCount": 1,
+  "price": 25000
+  }
+]
